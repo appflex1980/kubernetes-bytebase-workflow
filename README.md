@@ -3,15 +3,7 @@
 
 
 ## Bytebase | Development 
-KIND is primarily designed for local environments — it runs an entire Kubernetes cluster inside Docker containers, meaning each node (control plane or worker) is just a container. Its provides a flexible way to create multi-node Kubernetes clusters for development and testing purposes, especially useful for scenarios where you need to simulate a more complex, distributed environment.
-
-
-🚀 It’s especially helpful for:
-```
-✅ Developers who need a fast, disposable Kubernetes cluster on their laptop.
-✅ CI pipelines that run Kubernetes integration tests quickly without cloud infrastructure.
-✅ Testing multi-node setups or Kubernetes features (networking, scheduling, etc.) locally.
-```
+Bytebase is an open-source Database DevSecOps platform designed to centralize and automate database management workflows. It is often described as the "GitLab/GitHub for Databases" because it provides a collaborative, web-based workspace where developers and DBAs can manage the entire lifecycle of database schemas and data
 
 
 🧱  Key Features
