@@ -16,11 +16,26 @@ KIND is primarily designed for local environments — it runs an entire Kubernet
 
 🧱  Key Features
 ```
-🐳 Runs entirely on Docker — no need for VM-based solutions like Minikube or K3s.
-⚡ Fast startup and teardown — clusters can be created or destroyed in seconds.
-🔁 Supports multi-node topologies — you can simulate real clusters easily.
-🧩 Compatible with standard Kubernetes tooling — kubectl, Helm, etc., work out of the box.
-🧪 Often used in CI/CD pipelines with tools like GitHub Actions and GitLab CI.
+🔄 Database CI/CD
+GitOps Integration: Native GitHub/GitLab integration for database-as-code workflows
+Migration Management: Automated schema migration with rollback support
+SQL Review: 200+ lint rules to enforce SQL standards and best practices
+
+🔒 Security & Compliance
+Data Masking: Advanced column-level masking for sensitive data protection
+Access Control: Fine-grained RBAC with project and workspace-level permissions
+Audit Logging: Complete audit trail of all database activities
+
+🎯 Developer Experience
+Web SQL Editor: Feature-rich IDE for database development
+Batch Changes: Apply changes across multiple databases and tenants
+API & Terraform: Full API access and Terraform provider for automation
+
+📊 Operations
+Multi-Database Support: PostgreSQL, MySQL, MongoDB, Redis, Snowflake, and more
+Drift Detection: Automatic detection of schema drift across environments
+Admin Mode: CLI-like experience without bastion setup
+
 ```
 
 
