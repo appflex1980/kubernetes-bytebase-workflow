@@ -1,8 +1,8 @@
-<img width="1200" height="627" alt="image" src="https://github.com/user-attachments/assets/cbc03c6d-535f-4d9d-8916-0aeb197cf3be" />
+<img width="2731" height="1190" alt="image" src="https://github.com/user-attachments/assets/04980f16-0c60-4f37-9845-e31f97bfd4f1" />
 
 
 
-## Local Environment | Development 
+## Bytebase | Development 
 KIND is primarily designed for local environments — it runs an entire Kubernetes cluster inside Docker containers, meaning each node (control plane or worker) is just a container. Its provides a flexible way to create multi-node Kubernetes clusters for development and testing purposes, especially useful for scenarios where you need to simulate a more complex, distributed environment.
 
 
