@@ -1,7 +1,6 @@
 <img width="2731" height="1190" alt="image" src="https://github.com/user-attachments/assets/04980f16-0c60-4f37-9845-e31f97bfd4f1" />
 
 
-
 ## Bytebase | Development 
 Bytebase is an open-source Database DevSecOps platform designed to centralize and automate database management workflows. It is often described as the "GitLab/GitHub for Databases" because it provides a collaborative, web-based workspace where developers and DBAs can manage the entire lifecycle of database schemas and data
 
